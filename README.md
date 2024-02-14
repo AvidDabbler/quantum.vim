@@ -2,6 +2,14 @@
 
 A Neovim colorscheme inspired by [Firefox DevTools](https://developer.mozilla.org/en-US/docs/Tools).
 
+## Updates from original
+
+The general updates are just some personal choices that increase visibility. 
+- Line Number set to white
+- Current Line Number set to blue
+- Current Line highlight set to bg_green
+- Increase visual highlight
+
 ## Requirements
 **Neovim 0.7.0 or later**
 
@@ -10,7 +18,7 @@ You can use any package manager to install quantum.vim.
 
 Here is an example for [packer.nvim](https://github.com/wbthomason/packer.nvim):
 ```lua
-use("kjssad/quantum.vim")
+use("AvidDabbler/quantum.vim")
 ```
 
 ## Usage
