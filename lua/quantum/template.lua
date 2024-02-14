@@ -23,7 +23,7 @@ function M.setup(options)
     FoldColumn = { fg = c.comment },
     SignColumn = { fg = c.fg_gutter, bg = c.bg },
     IncSearch = { fg = c.bg, bg = c.ui_purple },
-    LineNr = { fg = c.blue },
+    LineNr = { fg = c.white },
     CursorLineNr = { fg = c.green },
     -- CursorLineSign = { bg = c.bg_sec },
     -- CursorLineFold = { fg = c.comment, bg = c.bg_sec },

@@ -16,6 +16,7 @@ local light_palette = {
   fold = "#ebf3fe",
   comment = "#737373",
 
+  white = "#cecece",
   blue = "#003eaa",
   cyan = "#0074e8",
   green = "#058b00",
@@ -63,6 +64,7 @@ local night_palette = {
   fold = "#2F323A",
   comment = "#737373",
 
+  white = "#cecece",
   blue = "#6b89ff",
   cyan = "#75bfff",
   green = "#86de74",
@@ -110,6 +112,7 @@ local dark_palette = {
   fold = "#2F323A",
   comment = "#737373",
 
+  white = "#cecece",
   blue = "#6b89ff",
   cyan = "#75bfff",
   green = "#86de74",
