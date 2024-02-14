@@ -30,6 +30,7 @@ local light_palette = {
   ui_yellow = "#a47f00",
   ui_purple = "#6200a4",
 
+  bg_white = "#a8a8a8",
   bg_cyan = "#b0c7ff",
   bg_green = "#adffb0",
   bg_red = "#ffbac0",

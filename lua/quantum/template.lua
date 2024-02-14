@@ -55,7 +55,7 @@ function M.setup(options)
     Terminal = { fg = c.fg, bg = c.bg },
     Title = { fg = c.ui_cyan, bold = true },
     -- Visual = { bg = "#586857" },
-    Visual = { bg = c.white },
+    Visual = { bg = c.bg_white },
     VisualNOS = {},
     WarningMsg = { fg = c.ui_yellow },
     WildMenu = { fg = c.bg, bg = c.selection },
