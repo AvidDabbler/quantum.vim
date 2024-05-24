@@ -104,7 +104,7 @@ function M.setup(options)
     LspReferenceRead = { bg = c.bg_cyan },
     LspReferenceWrite = { bg = c.bg_green },
     LspCodeLens = { fg = c.fg_alt, underline = true },
-    LspInlayHint = { fg = c.fg_alt },
+    LspInlayHint = { fg = c.bg_green, underline = true },
 
 
     DiagnosticError = { fg = c.ui_red },
