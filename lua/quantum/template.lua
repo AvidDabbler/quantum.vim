@@ -59,6 +59,7 @@ function M.setup(options)
     WarningMsg = { fg = c.ui_yellow },
     WildMenu = { fg = c.bg, bg = c.selection },
     WinBar = { fg = c.fg_alt },
+    LspInlayHint = { fg = c.fg_alt },
   }
 
   template.syntax = {
