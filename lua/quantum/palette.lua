@@ -55,7 +55,7 @@ local night_palette = {
 
   bg = "#232327",
   bg_sec = "#2a2a2e",
-  bg_alt = "#38383d",
+  bg_alt = "#666666",
   bg_dark = "#303034",
 
   border = "#414145",
