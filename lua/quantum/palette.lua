@@ -79,7 +79,8 @@ local night_palette = {
   ui_yellow = "#ffd866",
   ui_purple = "#b058dd",
 
-  bg_white = "#586857",
+  -- bg_white = "#586857",
+  bg_white = "#080A08",
   bg_cyan = "#2a3e50",
   bg_green = "#324434",
   bg_purple = "#3f2e4b",
@@ -114,8 +115,7 @@ local dark_palette = {
   fold = "#2F323A",
   comment = "#737373",
 
-  white = "#283852",
-  -- white = "#cecece",
+  white = "#cecece",
   blue = "#6b89ff",
   cyan = "#75bfff",
   green = "#86de74",
