@@ -114,7 +114,8 @@ local dark_palette = {
   fold = "#2F323A",
   comment = "#737373",
 
-  white = "#cecece",
+  white = "#283852",
+  -- white = "#cecece",
   blue = "#6b89ff",
   cyan = "#75bfff",
   green = "#86de74",
