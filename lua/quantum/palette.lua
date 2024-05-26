@@ -129,7 +129,8 @@ local dark_palette = {
   ui_yellow = "#ffd866",
   ui_purple = "#b058dd",
 
-  bg_white = "#586857",
+  bg_white = "#080A08",
+  -- bg_white = "#586857",
   bg_cyan = "#2a3e50",
   bg_green = "#324434",
   bg_purple = "#3f2e4b",
