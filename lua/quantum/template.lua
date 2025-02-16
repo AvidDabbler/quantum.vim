@@ -97,6 +97,7 @@ function M.setup(options)
     Ignore = {},
     Error = { fg = c.ui_red, bold = true },
     Todo = { fg = c.ui_cyan, bold = true },
+    Future = { fg = c.ui_cyan, bold = true },
   }
 
   template.lsp = {
